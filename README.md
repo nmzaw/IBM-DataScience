@@ -1,2 +1,2 @@
 # IBM-DataScience
-Tutorial for IBM Data Science Courses
+Lab & exercises for IBM Data Science Courses
